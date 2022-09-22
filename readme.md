@@ -1,0 +1,1 @@
+First, I transposed the columns in excel before importing the excel into Python. Then I used the pandas melt function to "unpivot" the table, which is turning the table from a wife-format into a long-format which is better for analysis.
